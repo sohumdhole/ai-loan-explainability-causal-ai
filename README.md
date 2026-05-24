@@ -10,12 +10,14 @@ An interactive, research-grade Credit Risk Decision System showing how to implem
 
 Rather than treating credit scores and debt-to-income (DTI) ratios as independent variables, this platform models them under a **Structural Causal Model (SCM)** to ensure that counterfactual recourse suggestions (e.g. paying off debt or increasing income) are causally consistent and actionable.
 
-<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/2f598ab0-9d8c-4e98-89b0-3a5c4fc7b113" />
-<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/70faecf1-1deb-4528-86ef-c94b0e5f97e5" />
-<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/866a6bef-8225-4ff1-bb8f-ff77ead2a42c" />
-<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/f368a35a-4149-4010-8f14-6bab7ffa3a81" />
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/2abb6ff1-e0c0-4003-8c13-bb5734a2560d" />
-<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/7c2b3f8d-3298-46cd-b531-baf6463907b3" />
+<img width="1920" height="834" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/5cf85b81-55bc-420d-b027-7857c6fc49f8" />
+<img width="1920" height="861" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/ef68593d-bd72-4298-8a8c-513ace541390" />
+<img width="1920" height="853" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/5e09df52-8a38-4364-9057-7516eac42b07" />
+<img width="1920" height="844" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/dc89ba41-4840-4a81-a7bb-150a8ad58cbc" />
+<img width="1920" height="848" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/e65f998b-fe82-42c0-b499-8e97b942ad6d" />
+<img width="1920" height="851" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/be298ce4-22e6-40de-a16d-c528c1c78eff" />
+
+
 
 
 
