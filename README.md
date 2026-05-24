@@ -1,7 +1,7 @@
 # AI Loan Approval Explainability & Causal AI System
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit App](https://static.streamlit.io/badge-svg.svg)](https://streamlit.io/)
+[![Streamlit App](https://streamlit.io/](https://ai-loan-explainability-causal-ai-hm7gceqtvsmfcyumtvcbkr.streamlit.app/))
 [![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 [![SHAP](https://img.shields.io/badge/Explainability-SHAP-brightgreen.svg)](https://github.com/shap/shap)
 [![Fairness](https://img.shields.io/badge/Fairness-EEOC%20Compliant-blueviolet.svg)](https://www.eeoc.gov/)
@@ -9,6 +9,16 @@
 An interactive, research-grade Credit Risk Decision System showing how to implement **Explainable AI (XAI)**, **Structural Causal Inference (Causal Recourse)**, and **Algorithmic Fairness Auditing** in financial applications. 
 
 Rather than treating credit scores and debt-to-income (DTI) ratios as independent variables, this platform models them under a **Structural Causal Model (SCM)** to ensure that counterfactual recourse suggestions (e.g. paying off debt or increasing income) are causally consistent and actionable.
+
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/2f598ab0-9d8c-4e98-89b0-3a5c4fc7b113" />
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/70faecf1-1deb-4528-86ef-c94b0e5f97e5" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/866a6bef-8225-4ff1-bb8f-ff77ead2a42c" />
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/f368a35a-4149-4010-8f14-6bab7ffa3a81" />
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/2abb6ff1-e0c0-4003-8c13-bb5734a2560d" />
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/7c2b3f8d-3298-46cd-b531-baf6463907b3" />
+
+
+
 
 ---
 
@@ -146,6 +156,6 @@ Open your browser and navigate to **`http://localhost:8501`**.
 *MSc Business Analytics, Dublin Business School*  
 *Focused on Explainable AI, Causal ML, Financial Analytics, and Responsible AI systems.*
 
-* **Email**: [sohumdhole@outlook.com](mailto:sohumdhole@outlook.com) *(Update with your email if different)*
-* **Portfolio/Website**: [Website Portfolio](https://your-portfolio-link.com) *(Update once ready)*
+* **Email**: [dholesohum@gmail.com](mailto:dholesohum@gmail.com) 
+
 
